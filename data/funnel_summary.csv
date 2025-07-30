@@ -1,0 +1,16 @@
+plan_type,step_name,total_users,completed_users,completion_rate_pct
+free,Add Profile Info,92,77,83.7
+free,Complete Setup Tutorial,21,9,42.86
+free,Connect Payment Method,66,50,75.76
+free,Email Confirmed,96,87,90.62
+free,Invite Team Member,53,30,56.6
+paid,Add Profile Info,89,74,83.15
+paid,Complete Setup Tutorial,34,15,44.12
+paid,Connect Payment Method,79,49,62.03
+paid,Email Confirmed,96,86,89.58
+paid,Invite Team Member,48,29,60.42
+trial,Add Profile Info,91,68,74.73
+trial,Complete Setup Tutorial,34,14,41.18
+trial,Connect Payment Method,74,48,64.86
+trial,Email Confirmed,108,99,91.67
+trial,Invite Team Member,46,30,65.22

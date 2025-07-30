@@ -1,0 +1,13 @@
+plan_type,step_name,time_between_steps
+free,Add Profile Info,10.96
+free,Complete Setup Tutorial,9.22
+free,Connect Payment Method,11.46
+free,Invite Team Member,10.77
+paid,Add Profile Info,10.96
+paid,Complete Setup Tutorial,11.47
+paid,Connect Payment Method,10.96
+paid,Invite Team Member,12.14
+trial,Add Profile Info,11.01
+trial,Complete Setup Tutorial,9.71
+trial,Connect Payment Method,11.79
+trial,Invite Team Member,11.93
