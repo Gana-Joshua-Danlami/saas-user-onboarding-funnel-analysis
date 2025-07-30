@@ -28,8 +28,8 @@ By identifying friction points and time delays, product teams can optimize onboa
 | `data/saas_onboarding_funnel_dataset.csv` | Raw user-level dataset |
 | `data/funnel_summary.csv` | Step-by-step funnel breakdown |
 | `data/time_delay_summary.csv` | Avg time between steps (by plan and step) |
-| `saas_onboarding_analysis.ipynb` | Full Google Colab analysis notebook |
-
+| `saas_onboarding_analysis.ipynb` | Full Google Colab analysis notebook that's interactive but doesn't render on github|
+| `saas_onboarding_analysis github.ipynb` | Full analysis notebook that's static for github rendering |
 ## 📈 Tableau Dashboard
 
 🔗 [Click here to view the dashboard](https://public.tableau.com/views/SaaSOnboardingFunnelAnalysis/SaaSOnboardingFunnelAnalysis)
